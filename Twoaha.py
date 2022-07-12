@@ -394,12 +394,12 @@ logo = """
                                        
 \033[1;91m  Twoaha Ibn Jalal 😈🤟
 \033[0;95m═══════════════════════════════════════════
-\033[0;94m [!]\033[0;91mTOOL OWNER :\033[0;92mTwoaha Ibn Jalal
-\033[0;94m [!]\033[0;91mGITHUB :\033[0;92mTwoaha
- \033[0;94m [!]\033[0;91mFacebook :\033[0;92mTwoaha Ibn Jalal 
- \033[0;94m [!]\033[0;91mWhatsApp :\033[0;92m01959848804
-\033[0;94m [!]\033[0;91mTOOL NAME :\033[0;92m Random id Cloner
-\033[0;94m [!]\033[0;91mVERSION   :\033[0;92m3.0.7
+\033[0;94m [!]\033[0;91mOWNER    :\033[0;92mTwoaha Ibn Jalal
+\033[0;94m [!]\033[0;91mGITHUB   :\033[0;92mTwoaha
+\033[0;94m [!]\033[0;91mFacebook :\033[0;92mTwoaha Ibn Jalal 
+\033[0;94m [!]\033[0;91mWhatsApp :\033[0;92m01959848804
+\033[0;94m [!]\033[0;91mTOOL NAME:\033[0;92m Random id Cloner
+\033[0;94m [!]\033[0;91mVERSION  :\033[0;92m3.0.7
 \033[0;94m [!]\033[0;94mTwoaha Ibn Jalal is A King DO You Know 🤟......  Twoaha Is Not A Name Its A Brand 🙂
 \033[0;95m═══════════════════════════════════════════"""
  
@@ -439,10 +439,10 @@ class Main:
 		print(" [▪]Choose methode#")
 		print("\033[0;90m ><><><><><><><><><><><><><><><><><><>><")
 		print(" \033[0;94m[1]\033[0;97m Crack with File Unlimtd\033[0;92m ~[Login]")
-		print(" \033[0;93m[2] Crack from Public Id    ~[>< login]")
+		print(" \033[0;93m[2] Crack from Public Id    ~[login]")
 		print(" [3] Cloning Pak Idz         ~[No login] ")
 		print(" \033[0;94m[4] Cloning Old Idz 2008-10 \033[0;94m~[login]")
-		print(" [5] Cloning Old Idz 2011-16\033[0;94m ~[No login]")
+		print(" [5] Cloning Old Idz 2011-16\033[0;94m ~[login]")
 		print("\033[0;91m [E] Exit \n")
 		Twoaha =input(" \033[0;93mChoose : ")
 		if Twoaha in ["1", "01"]:
